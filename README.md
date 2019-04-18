@@ -1,3 +1,5 @@
-### Web Server
+CSC496 Our CSC496 course project
 
-On this branch is a CloudLab profile using a single XenVM to launch an Ubuntu16-64-STD Apache webserver
+The purpose of this branch is to test the following benchmarks on docker...
+
+Benchmarks: Linpack, RandomAccess
